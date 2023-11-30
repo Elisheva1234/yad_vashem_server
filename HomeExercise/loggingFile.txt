@@ -1,0 +1,5 @@
+2023-11-30 00:51:23.546 +02:00 [ERR] Error in AddImages The process cannot access the file 'C:\Users\Elisheva\Desktop\SERVER\HomeExercise\HomeExercise\images\1234\collectionDetails.json' because it is being used by another process.
+2023-11-30 00:51:23.546 +02:00 [ERR] Error in AddImages The process cannot access the file 'C:\Users\Elisheva\Desktop\SERVER\HomeExercise\HomeExercise\images\1234\collectionDetails.json' because it is being used by another process.
+2023-11-30 00:56:13.573 +02:00 [ERR] Error in AddImages The process cannot access the file 'C:\Users\Elisheva\Desktop\SERVER\HomeExercise\HomeExercise\images\1234\collectionDetails.json' because it is being used by another process.
+2023-11-30 00:56:21.428 +02:00 [ERR] Error in AddImages The process cannot access the file 'C:\Users\Elisheva\Desktop\SERVER\HomeExercise\HomeExercise\images\1234\collectionDetails.json' because it is being used by another process.
+2023-11-30 00:56:21.428 +02:00 [ERR] Error in AddImages The process cannot access the file 'C:\Users\Elisheva\Desktop\SERVER\HomeExercise\HomeExercise\images\1234\collectionDetails.json' because it is being used by another process.
